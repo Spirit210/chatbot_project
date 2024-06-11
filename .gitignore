@@ -1,0 +1,17 @@
+# Virtual environment
+chatbot_env/
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Ignore model files
+models/chatbot_model.h5
